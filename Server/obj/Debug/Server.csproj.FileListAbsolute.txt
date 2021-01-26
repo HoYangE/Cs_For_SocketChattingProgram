@@ -1,0 +1,14 @@
+C:\Users\syhwm\source\repos\ServerAndClient\Server\bin\Debug\Server.exe.config
+C:\Users\syhwm\source\repos\ServerAndClient\Server\bin\Debug\Server.exe
+C:\Users\syhwm\source\repos\ServerAndClient\Server\bin\Debug\Server.pdb
+C:\Users\syhwm\source\repos\ServerAndClient\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\syhwm\source\repos\ServerAndClient\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\syhwm\source\repos\ServerAndClient\Server\obj\Debug\Server.exe
+C:\Users\syhwm\source\repos\ServerAndClient\Server\obj\Debug\Server.pdb
+C:\Users\syhwm\source\repos\ServerAndClientC#\Server\bin\Debug\Server.exe.config
+C:\Users\syhwm\source\repos\ServerAndClientC#\Server\bin\Debug\Server.exe
+C:\Users\syhwm\source\repos\ServerAndClientC#\Server\bin\Debug\Server.pdb
+C:\Users\syhwm\source\repos\ServerAndClientC#\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\syhwm\source\repos\ServerAndClientC#\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\syhwm\source\repos\ServerAndClientC#\Server\obj\Debug\Server.exe
+C:\Users\syhwm\source\repos\ServerAndClientC#\Server\obj\Debug\Server.pdb
